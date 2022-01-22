@@ -754,7 +754,7 @@ section .header .subtext{
     z-index: 70;
     transform: translate(-50%, 0);
     width: 100vw !important;
-    height: 340vh;
+    height: 4380px;
     overflow-x: hidden;
     background-color: rgba(0, 10, 18, 0.6);
 }
